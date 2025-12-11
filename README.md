@@ -1,4 +1,4 @@
-# Mathematics Notes (2025)
+# math-notes-2025
 
 This repository contains a 7-page mathematical summary covering:
 
